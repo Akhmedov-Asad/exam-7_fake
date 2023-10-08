@@ -1,0 +1,1 @@
+"use strict";exports.id=300,exports.ids=[300],exports.modules={4300:(e,s,t)=>{t.r(s),t.d(s,{$$typeof:()=>p,__esModule:()=>a,default:()=>u});var r=t(7536);let o=(0,r.createProxy)(String.raw`/Users/user/Desktop/exam-7/app/components/ControlPuchases.tsx`),{__esModule:a,$$typeof:p}=o,d=o.default,u=d}};
